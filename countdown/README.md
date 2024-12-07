@@ -1,16 +1,4 @@
-
-</hr>
-</hr>
-
-**Tunner ♻️**
-
-</hr>
-</hr>
-
-
-
-
-# Countdown Chrome Extension
+# Countdown Chrome Extension : Tunner ♻️
 
 This repository contains the **Countdown Chrome Extension**, a lightweight tool that helps users set and track countdown timers directly within their browser. The extension is easy to use and integrates seamlessly into the Chrome browser for enhanced productivity.
 
@@ -44,10 +32,11 @@ Below are some screenshots showcasing the functionality of the Countdown Chrome 
 
 | Feature               | Screenshot                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
-| **Initial Interface** | ![Initial Interface](https://via.placeholder.com/400x200?text=Initial+Interface) |
-| **Set Timer**         | ![Set Timer](https://via.placeholder.com/400x200?text=Set+Timer)               |
-| **Countdown Running** | ![Countdown Running](https://via.placeholder.com/400x200?text=Countdown+Running) |
-| **Notification**      | ![Notification](https://via.placeholder.com/400x200?text=Notification)        |
+| **Initial Interface** | ![Screenshot (270)](https://github.com/user-attachments/assets/f6b3781b-3f59-45cb-99c3-59ed049b8963) |
+| **Set Timer**         | ![Screenshot (262)](https://github.com/user-attachments/assets/2a20f218-496e-4b85-a6aa-cd757d24873c) |
+| **Countdown Running** | ![Screenshot (271)](https://github.com/user-attachments/assets/e462ce5d-8b02-46f3-a744-bc4f11acddc6) |
+| **Notification**      | ![Screenshot (268)](https://github.com/user-attachments/assets/f64ffb86-b670-46a5-9eed-07582e527833) |
+| **Input Null/Empty**  | ![Screenshot (269)](https://github.com/user-attachments/assets/b0b04dfd-29b3-4722-a550-d81a3a1dcbc8) |
 
 ## Technologies Used
 
@@ -75,10 +64,6 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
-
 ## Author
 
 Developed by [Manoj Pise](https://github.com/manojpisepatil).
@@ -86,3 +71,9 @@ Developed by [Manoj Pise](https://github.com/manojpisepatil).
 ---
 
 For further queries or suggestions, feel free to raise an issue or contact the author.
+
+
+
+
+
+
