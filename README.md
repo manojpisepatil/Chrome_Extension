@@ -10,9 +10,8 @@ Welcome to the **Chrome_Extension** repository! This repository hosts custom-bui
 2. [Extensions List](#extensions-list)
 3. [Installation](#installation)
 4. [Features](#features)
-5. [Gallery](#gallery)
-6. [Future Plans](#future-plans)
-7. [Contributing](#contributing)
+5. [Future Plans](#future-plans)
+6. [Contributing](#contributing)
 
 ---
 
